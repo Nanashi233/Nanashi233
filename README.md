@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/-%E5%A4%A9%E9%80%89_5_Pro-000000?style=flat-square&logo=asus&logoColor=%23FFFFFF&labelColor=%23000000)
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nanashi233&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashi233&layout=compact&hide_border=true"/>
+<div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nanashi233&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanashi233&layout=compact&hide_border=true"/>
+</div>
