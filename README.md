@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m learning & I'll learn
 
-![Clang](https://img.shields.io/badge/-Clang-A8B9CC?style=flat-square&logo=c&logoColor=FFFFFF&labelColor=A8B9CC)
+![C语言](https://img.shields.io/badge/-Clang-A8B9CC?style=flat-square&logo=c&logoColor=FFFFFF&labelColor=A8B9CC)
 ![CPP](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF&labelColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF&labelColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF&labelColor=F7DF1E)
